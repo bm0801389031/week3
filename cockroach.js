@@ -13,14 +13,20 @@ be an Integer.
 FUNDAMENTALS
 */
 
+
+/*Set regular function to cockroachSpeed with parameter
+/argument of s */
 function cockroachSpeed(s) {
-    //Good Luck!
+/* return a method that will give you an integer rounded
+down, then multiply s by 100000 cause there are that 
+many cm in a km, then devide by 3600 seconds in a hour */
+    return Math.floor(s*100000/3600)
   }
 
 
 
 
-  
+
 /*
 Test.describe("Basic Tests", function() {
   Test.assertEquals(cockroachSpeed(1.08), 30);
