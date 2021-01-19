@@ -10,6 +10,7 @@ Note! The input is a Real number (actual type is language dependent) and is >= 0
 FUNDAMENTALS
 
 2.
+EVEN OR ODD
 Description:
 
 Create a function (or write a script in Shell) that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
