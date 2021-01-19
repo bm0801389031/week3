@@ -14,9 +14,13 @@ FUNDAMENTALS, BASIC LANGUAGE FEATURES, STRINGS
 
 
 
-
+//set function to removeChar with a parameter/argument of str
 function removeChar(str) {
-//code here
+/* return the parameter with method slice then with the two params
+in slice, use the first param to grab the first letter from the string 
+and the second parameter to grab the first letter from the back of the 
+string.*/
+  return str.slice(1, -1);
 }
 
 
@@ -52,6 +56,10 @@ Test.describe("Random Tests", function(){
   
 }); 
 */
+
+
+
+
 
 
 
