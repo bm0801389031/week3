@@ -44,3 +44,14 @@ Notes:
 The number can be negative already, in which case no change is required.
 Zero (0) is not checked for any specific sign. Negative zeros make no mathematical sense.
 */
+
+
+5. 
+
+Description:
+
+Write a function called repeat_str which repeats the given string src exactly count times.
+
+repeatStr(6, "I") // "IIIIII"
+repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
+FUNDAMENTALS
