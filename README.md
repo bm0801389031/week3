@@ -55,3 +55,10 @@ Write a function called repeat_str which repeats the given string src exactly co
 repeatStr(6, "I") // "IIIIII"
 repeatStr(5, "Hello") // "HelloHelloHelloHelloHello"
 FUNDAMENTALS
+
+6. 
+remove string spaces
+Description:
+
+Simple, remove the spaces from the string, then return the resultant string.
+FUNDAMENTALS, STRINGS, ARRAYS
