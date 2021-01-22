@@ -1,6 +1,6 @@
 
 //set function statement to reverse with parameter/argument s
-function reverse(s){
+function reverse(str){
 /*return parameter s with method split(), to split the string and 
 puts these substrings into an array; for the parameter, only 
 quotes with no space, that way it will pull each word in to an
@@ -12,7 +12,7 @@ then the join() method which creates and returns a new string by
 concatenating all of the elements in an array.. set with parameter
 with only quotations, no space, so it joins the array in to a whole 
 string*/
-	return s.split("").reverse().join("");
+	return str.split("").reverse().join("");
 }
 
 
