@@ -63,7 +63,7 @@ Description:
 Simple, remove the spaces from the string, then return the resultant string.
 FUNDAMENTALS, STRINGS, ARRAYS
 
-
+### Seventh program
 7. Reversed String
 
 Description:
