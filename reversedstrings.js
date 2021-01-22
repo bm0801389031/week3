@@ -1,6 +1,6 @@
 
 //set function statement to reverse with parameter/argument s
-function reverse(str){
+function solution(str){
 /*return parameter s with method split(), to split the string and 
 puts these substrings into an array; for the parameter, only 
 quotes with no space, that way it will pull each word in to an
