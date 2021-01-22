@@ -62,3 +62,13 @@ Description:
 
 Simple, remove the spaces from the string, then return the resultant string.
 FUNDAMENTALS, STRINGS, ARRAYS
+
+
+7. Reversed String
+
+Description:
+
+Complete the solution so that it reverses the string passed into it.
+
+'world'  =>  'dlrow'
+FUNDAMENTALS, STRINGS
