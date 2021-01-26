@@ -4,10 +4,16 @@
 parameter/argument x */
 function noSpace(x){
 /*
-retern parameter x with method replace using regular expressions 
+retern parameter x with method replace using regular expressions;
+for my first parameter within method .replace use, the following
+regular expression
 \s means “any white space character, including space, tab, 
 form feed, or line feed  and regular expression g ( g is a flag meaning 
-“global search”)
+“global search”) this is the syntag for g;   / /g which wraps any other
+regular expression within the forward slashes......
+//and for the second parameter with in the method replace, the new value
+//parameter should be quotes indicating that the value returned
+//should be a string......
 */
   return x.replace(/\s/g, '');
 }
