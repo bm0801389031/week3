@@ -4,11 +4,12 @@ var summation = function (num) {
 /* let result equal 0*/
   let result = 0;
 /* for loop with three expressions. first expression is a variable
-equal to 1; second expression is i less than or equal to num;
+i equal to 1; second expression is i less than or equal to num;
 third expression is i plus plus, so that i will incroment by one 
 through each loop iteration*/
   for (var i = 1; i <= num; i++) {
-//result plus equals i
+/*result plus equals  i... += assignment oporator, which makes 
+what ever was added to equal what it was added with */
     result += i;
   }
 // return result
